@@ -23,5 +23,6 @@ public class MyClass {
 	public static void main(String[] arg) {
 
 		System.out.println("this is my git");
+		System.out.println("this is my git");
 	}
 }
